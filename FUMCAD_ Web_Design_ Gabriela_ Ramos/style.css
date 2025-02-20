@@ -1,0 +1,43 @@
+@charset "utf-8";
+
+
+/* seve para criar comentários no CSS */
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+body{
+    background-color: rgb(255, 255, 255);
+}
+
+
+h1,h2{
+    color: rgb(101, 41, 252);
+    text-align: center;
+    margin-top: 7px;
+}
+p{
+    text-align: center;
+    font-size: x-large;
+    font-family: 'Courier New', Courier, monospace;
+    border: solid darkblue;
+}
+
+#Tubarão{
+   background-color: black;
+   color: aliceblue;
+   font-size: x-large;
+   font-family: Arial, Helvetica, sans-serif ;
+   border: darkblue;
+}
+#Latrel{
+    background-color: black;
+   color: aliceblue;
+   font-size: x-large;
+   font-family: Arial, Helvetica, sans-serif ;
+   border: darkblue;
+}
